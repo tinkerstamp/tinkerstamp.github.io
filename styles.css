@@ -1,9 +1,10 @@
 img {
-    width: 350px;
+    width: 400px;
 }
 body {
     text-align: center;
-    font-family: "Arial";
-    background: gold;
-    color: green;
+    font-family: "comicsans";
+    background-image: url("clouds.png");
+    background-size: cover;
+    color: black;
 }
